@@ -1,6 +1,6 @@
 # 💎 MoposhLuxury
 
-**MoposhLuxury** is a **business website designed to showcase luxury fashion and lifestyle products**. Built with **Next.js** and Tailwind CSS, it combines performance with a visually elegant and responsive design. The site serves as an online presence for the MoposhLuxury brand, offering a curated display of high-end items in a sleek and professional layout.
+**MoposhLuxury** is a **business website designed to showcase luxury fashion and lifestyle products**. Built with **Next.js** , Typescript and Tailwind CSS, it combines performance with a visually elegant and responsive design. The site serves as an online presence for the MoposhLuxury brand, offering a curated display of high-end items in a sleek and professional layout.
 
 ---
 
@@ -33,4 +33,4 @@
 - **Product Gallery**  
 ![Image](https://github.com/user-attachments/assets/cc1a2eff-d8f6-4e74-9a21-bf0ebab9cd78)
 - **Contact Details**  
-![Image](https://github.com/user-attachments/assets/e777065a-2b32-
+![Image](https://github.com/user-attachments/assets/e777065a-2b32-4c1d-b375-ad00af6943fe)
